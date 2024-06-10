@@ -1,4 +1,4 @@
-# ([Kamil Ramazanov](https://jellgrum.dev))
+# [Kamil Ramazanov](https://jellgrum.dev)
 ## Frontend Software Engineer
 
 ### GitHub Stats:
