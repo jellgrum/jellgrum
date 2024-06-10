@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kamil Ramazanov (Jellgrum)</h1>
+<h1 align="center">Kamil Ramazanov (Jellgrum)</h1>
 <h3 align="center">Frontend Software Engineer</h3>
 
-📄 Know about my experiences [jellgrum.dev](https://jellgrum.dev)
+📄 Know about my experiences <a href="https://jellgrum.dev" target="_blank">jellgrum.dev</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -56,8 +56,14 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
+  <a href="https://mobx.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mobx/mobx-original.svg" alt="mobx" width="40" height="40"/>
+  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <a href="https://lesscss.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -67,5 +73,8 @@
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+  </a>
+  <a href="https://ui.shadcn.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/android-chrome-192x192.png" alt="webpack" width="40" height="40"/>
   </a>
 </p>
