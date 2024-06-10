@@ -1,9 +1,5 @@
-<h1 align="center">Kamil Ramazanov (Jellgrum)</h1>
+<h1 align="center">Kamil Ramazanov (<a href="https://jellgrum.dev" target="_blank">Jellgrum</a>)</h1>
 <h3 align="center">Frontend Software Engineer</h3>
-
-📄 Know about my experiences <a href="https://jellgrum.dev" target="_blank">jellgrum.dev</a>
-
-<hr />
 
 <h3>Programming Languages:</h3>
 <p>
