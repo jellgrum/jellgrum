@@ -1,6 +1,12 @@
 # Kamil Ramazanov ([Jellgrum](https://jellgrum.dev))
 ## Frontend Software Engineer
 
+### GitHub Stats:
+<div>
+  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api?username=jellgrum&show_icons=true&hide=stars,prs,issues&rank_icon=github&include_all_commits=true&theme=dark" />
+  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api/top-langs/?username=jellgrum&hide_progress=true&theme=dark" />
+</div>
+
 ### Programming Languages:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40" />
