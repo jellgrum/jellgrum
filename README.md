@@ -1,3 +1,13 @@
+<style>
+  a {
+    text-decoration: none;
+    transition: filter 0.2s linear;
+  }
+  a:hover {
+    filter: invert(1);
+  }
+</style>
+
 <h1 align="center">Kamil Ramazanov (<a href="https://jellgrum.dev" target="_blank">Jellgrum</a>)</h1>
 <h3 align="center">Frontend Software Engineer</h3>
 
