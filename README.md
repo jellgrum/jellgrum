@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="redux" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mobx/mobx-original.svg" alt="MobX" title="mobx" width="40" height="40" />
   <img src="https://docs.pmnd.rs/zustand.ico" alt="zustand" title="Zustand" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" title="Webpack" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/webpack/webpack-original.svg" alt="webpack" title="Webpack" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" title="Vite" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" title="Gulp" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/32607881?s=40" alt="parcel" title="Parcel" width="40" height="40" />
