@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40" />
 </details>
 
-<details>
+<details open>
   <summary>
     <h3>Frontend Development</h3>
   </summary>
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn-ui" title="Shadcn-UI" width="40" height="40" />
 </details>
 
-<details>
+<details open>
   <summary>
     <h3>Backend Development</h3>
   </summary>
@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" width="40" height="40" />
 </details>
 
-<details>
+<details open>
   <summary>
     <h3>Other</h3>
   </summary>
