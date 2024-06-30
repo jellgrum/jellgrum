@@ -1,20 +1,18 @@
 # [Kamil Ramazanov](https://jellgrum.dev)
 ## Frontend Software Engineer
 
-### GitHub Stats:
-<div>
-  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api?username=jellgrum&show_icons=true&hide=stars,prs,issues&rank_icon=github&include_all_commits=true&theme=dark" />
-  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api/top-langs/?username=jellgrum&hide_progress=true&theme=dark" />
-</div>
-
-### Programming Languages:
-<p>
+<details open>
+  <summary>
+    <h3>Programming Languages</h3>
+  </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="Typescript" width="40" height="40" />
-</p>
+</details>
 
-### Frontend Development:
-<p>
+<details>
+  <summary>
+    <h3>Frontend Development</h3>
+  </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="Sass" width="40" height="40" />
@@ -32,21 +30,33 @@
   <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" title="Babel" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="antd" title="Ant Design" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn-ui" title="Shadcn-UI" width="40" height="40" />
-</p>
+</details>
 
-### Backend Development:
-<p>
+<details>
+  <summary>
+    <h3>Backend Development</h3>
+  </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" title="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="Express" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/5055057?s=40" alt="koa" title="Koa" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx" width="40" height="40" />
-</p>
+</details>
 
-### Other:
-<p>
+<details>
+  <summary>
+    <h3>Other</h3>
+  </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40" />
-</p>
+</details>
+
+<details>
+  <summary>
+    <h3>GitHub Stats</h3>
+  </summary>
+  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api?username=jellgrum&show_icons=true&hide=stars,prs,issues&rank_icon=github&include_all_commits=true&theme=dark" />
+  <img height="148" align="center" src="https://github-readme-stats-mocha-five-14.vercel.app/api/top-langs/?username=jellgrum&hide_progress=true&theme=dark" />
+</details>
