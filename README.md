@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" title="Vite" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" title="Gulp" width="40" height="40" />
   <img src="https://avatars.githubusercontent.com/u/32607881?s=40" alt="parcel" title="Parcel" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" title="Babel" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/babel/babel-original.svg" alt="babel" title="Babel" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" alt="antd" title="Ant Design" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/android-chrome-192x192.png" alt="shadcn-ui" title="Shadcn-UI" width="40" height="40" />
 </details>
@@ -47,7 +47,7 @@
     <h3>Other</h3>
   </summary>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/bash/bash-original.svg" alt="bash" title="Bash" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40" />
