@@ -1,1 +1,4 @@
-<img src="./globe.gif" width="16" height="16" /> hello world
+<center>
+  <img src="./globe.gif" width="32" height="32" />
+  <div>hello world</div>div>
+</center>
